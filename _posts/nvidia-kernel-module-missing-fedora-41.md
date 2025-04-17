@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2025-04-17
+---
+
 # Nvidia kernal module missing on startup
 
 ## Problem
